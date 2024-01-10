@@ -1,1 +1,15 @@
+Start with Apptitude --->
+1) Statistics
+2) Percentage
+3) Time & work  (complete)  Solving problems
 
+
+later solving (Binary Search problems)
+1) find minimum element in rotated array
+2) how many time array rotated
+2) peak element find
+
+after learning Developement (Spring JDBC)
+1) What is Spring JDBC
+2) Configuration of spring JDBC and adding dependencies of spring_core, spring_context, mysql_connector
+3) creating xml file configuration crating student class and Whole App class 
