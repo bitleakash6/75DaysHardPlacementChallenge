@@ -1,0 +1,6 @@
+Aptitude (Number system) : learning numeric sums, squres, squres root, and solving more problems on that
+divisiblity rule many problesm exploring in advance
+
+DSA Concept Revision : (Binary Search answers problems) : Allocate books , minimum pages, and more problems on that 
+
+Development (Spring jdbc) : performing deletion operation and mastering the concept
