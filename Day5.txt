@@ -1,0 +1,5 @@
+Aptitude : (Percentage) start new topic and solving problems
+
+DSA revision : (strings)
+
+Developement : (spring jdbc)
