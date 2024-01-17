@@ -1,5 +1,5 @@
-Aptitude : (Statistics)
+Aptitude : (percentage)
 
-DSA Revision : (Sliding Window) 
+DSA Revision : (Strings)
 
-Development : (Spring ORM Hibernate) started first day
+Developement : (spring jdbc)
