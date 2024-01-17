@@ -1,0 +1,5 @@
+Aptitude : (Statistics)
+
+DSA Revision : (Sliding Window) 
+
+Development : (Spring ORM Hibernate) started first day
