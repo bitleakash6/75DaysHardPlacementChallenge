@@ -1,0 +1,5 @@
+Aptitude : Elementery Statistics
+
+DSA : Sliding window
+
+Developement : Spring ORM hibernate
