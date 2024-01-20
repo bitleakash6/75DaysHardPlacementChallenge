@@ -1,0 +1,5 @@
+Aptitude : Ages
+
+DSA : (Sliding window + hashing + two pointer approch)
+
+Developement : Spring MVC
