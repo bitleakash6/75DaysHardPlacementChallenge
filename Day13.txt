@@ -1,0 +1,4 @@
+Aptitude : Coding Decoding
+DSA : Linked List
+Developement : Spring mvc sending data to controller
+  
