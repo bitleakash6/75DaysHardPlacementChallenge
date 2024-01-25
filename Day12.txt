@@ -1,0 +1,3 @@
+Aptitude : blood relation
+DSA : Linked List
+Development : Spring MVC
