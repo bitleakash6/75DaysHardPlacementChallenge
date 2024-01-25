@@ -1,0 +1,3 @@
+Aptitude : Ratio and praportion
+DSA : sliding window 
+Developement : Spring mvc 
