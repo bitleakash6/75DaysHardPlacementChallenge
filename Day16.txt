@@ -1,0 +1,4 @@
+Aptitude : sitting arrangement
+DSA : Linked lists
+
+Developement : spring mvc + spring orm
