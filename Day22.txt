@@ -1,0 +1,3 @@
+Aptitude : Average
+DSA : Stack & queue
+Developement : spring mvc Exception handling
