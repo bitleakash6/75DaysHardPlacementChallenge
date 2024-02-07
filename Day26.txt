@@ -1,0 +1,3 @@
+Aptitude : Time & speed
+DSA : stack & queue data structure
+Developement : spring mvc Crud Application
