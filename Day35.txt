@@ -1,0 +1,3 @@
+Aptitude : Blood Relation
+DSA : bit manipulation
+Developement : Spring mvc
