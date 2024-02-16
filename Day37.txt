@@ -1,0 +1,3 @@
+Aptitude : LCM & HCF 
+DSA : Bit manipulation
+Developement : Spring mvc
