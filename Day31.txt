@@ -1,0 +1,3 @@
+Aptitude : Profit & loss
+DSA : Arrays
+Developement : Spring mvc
