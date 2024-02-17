@@ -1,0 +1,3 @@
+Aptitude : Lcm & hcf
+DSA : LinkedList
+Developement : spring boot Intro
