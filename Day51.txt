@@ -1,3 +1,3 @@
-Aptitude : Os
-DSA : Recursion
-Development: Nodejs
+Aptitude : DBMS
+DSA : Recursion + Backtraking
+Development: expressjs
