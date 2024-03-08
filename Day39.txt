@@ -1,0 +1,3 @@
+Aptitude : Syllogism
+DSA : Stack
+Development: Spring Boot
