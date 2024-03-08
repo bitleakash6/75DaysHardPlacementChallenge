@@ -1,1 +1,4 @@
+Aptitude : DBMS
+DSA : Recursion + Backtraking
+Development: expressjs
 
