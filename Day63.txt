@@ -1,0 +1,3 @@
+Aptitude : DBMS
+DSA : POTD of gfg , leetcode
+Developement : Reactjs
