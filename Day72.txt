@@ -1,0 +1,3 @@
+Aptitude : CN
+DSA : POTD leetcode, 
+Developement : Reactjs
