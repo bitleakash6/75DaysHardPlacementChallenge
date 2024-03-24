@@ -20,4 +20,57 @@ This journey wasn't just about completing tasks; it was about pushing boundaries
 3. Time & Work
 4. Number System
 5. LCM & HCF
-6. Profit & Loss, Ratio & Proportion, Ages, Average. For Reasoning, I tackled Coding Decoding, Blood Relation, Direction, and Sitting Arrangement
+6. Profit & Loss
+7. Ratio & Proportion
+8. Ages
+9. Average
+10. simle interest
+11. compount interest
+12. speed & distance, Time
+13. Probability
+14. Parternship
+15. Data Interpretation
+    
+### Reasoning
+1. Coding Decoding
+2. Blood Relation
+3. Direction
+4. Sitting Arrangement
+5. Statement conclution
+6. syllogism
+7. Number series
+8. circular Arrangement
+
+### Verbal Ability
+1. Sentence Correction
+2. Reading Comprehension
+3. Error Identification
+4. fill in the Blanks
+
+## DSA Revision
+1. Sliding Window
+2. Hashing
+3. Binary Search
+4. Strings
+5. Linked List
+6. Stack & Queue
+7. Arrays
+8. Bit Manipulation.
+9. Recursion
+10. Heap Data Structure
+ 
+## Development (MERN STACK)
+1. Java with frameworks
+2. Nodejs
+3. Expressjs
+4. MongoDB
+5. Reactjs
+6. Socket.io
+7. Nextjs
+8. Redux
+9. HTML
+10. CSS
+11. JavaScript
+12. TailWindCSS
+13. BootStrap
+14. AWS
