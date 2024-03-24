@@ -1,5 +1,6 @@
 # 75DaysHardPlacementChallenge
 This journey wasn't just about completing tasks; it was about pushing boundaries and fostering continuous improvement. Thank you all for your support and encouragement along the way!
+![](https://github.com/bitleakash6/75DaysHardPlacementChallenge/blob/main/75hard%20day%20challange.jpg)
 
 # Project Overview 
 
