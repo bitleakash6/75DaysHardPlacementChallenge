@@ -12,3 +12,12 @@ This journey wasn't just about completing tasks; it was about pushing boundaries
 - 4️⃣ Applying to Companies: Actively seeking opportunities that align with my goals and aspirations. Crafting personalized applications to showcase my skills and enthusiasm.
 
 - 5️⃣ Daily 3km Walk: Maintaining a healthy balance between mental and physical well-being. A brisk 3km walk daily to rejuvenate and keep the learning spirit high!
+
+## TECH STACK
+### Aptitude
+1. Statistics
+2. Percentage
+3. Time & Work
+4. Number System
+5. LCM & HCF
+6. Profit & Loss, Ratio & Proportion, Ages, Average. For Reasoning, I tackled Coding Decoding, Blood Relation, Direction, and Sitting Arrangement
