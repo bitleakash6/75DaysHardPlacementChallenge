@@ -77,4 +77,4 @@ This journey wasn't just about completing tasks; it was about pushing boundaries
 13. BootStrap
 14. AWS
 
-![75DaysHardPlacementChallenge Completed](https://www.linkedin.com/feed/update/urn:li:activity:7177636363977068545/)
+! [75DaysHardPlacementChallenge Completed](https://www.linkedin.com/feed/update/urn:li:activity:7177636363977068545/)
