@@ -1,6 +1,7 @@
 # 75DaysHardPlacementChallenge
 This journey wasn't just about completing tasks; it was about pushing boundaries and fostering continuous improvement. Thank you all for your support and encouragement along the way!
-![](https://github.com/bitleakash6/75DaysHardPlacementChallenge/blob/main/75hard%20day%20challange.jpg)
+
+![75DaysHardPlacementChallenge](https://github.com/bitleakash6/75DaysHardPlacementChallenge/blob/main/75hard%20day%20challange.jpg)
 
 # Project Overview 
 
@@ -75,3 +76,5 @@ This journey wasn't just about completing tasks; it was about pushing boundaries
 12. TailWindCSS
 13. BootStrap
 14. AWS
+
+![Conplete](https://www.linkedin.com/posts/akash-bitle_75dayshardplacementchallenge-75dayschallenge-activity-7177636363977068545-9NRH?utm_source=share&utm_medium=member_desktop)
